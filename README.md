@@ -26,3 +26,10 @@ Me gusta adquirir nuevos conocimientos que me puedan servir en la búsqueda de s
 
 <p align="left">
 </p>
+
+
+<h2 align="center">
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477l8gg3zhq7y6qjzv3iubgqjb9320ypb81tlhm6qc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" />
+</h2>
+
+
