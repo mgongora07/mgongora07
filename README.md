@@ -15,13 +15,13 @@ Me gusta adquirir nuevos conocimientos que me puedan servir en la búsqueda de s
 <h1> 💡 Objetivos </h1>
 
 *Empezar mi carrera como FullStack Developer <br></br>
-*Aprender las bases de TypeScript
-*Mejorar mis habilidades como Programador
-*Ser un mejor profesional
+*Aprender las bases de TypeScript <br></br>
+*Mejorar mis habilidades como Programador<br></br>
+*Ser un mejor profesional<br></br>
 
 
 <h3 align="left">Información de contacto:</h3>
-*LinkedIn:https://www.linkedin.com/in/mauricio-g%C3%B3ngora-loria-1a9ab24b/
+*LinkedIn:https://www.linkedin.com/in/mauricio-g%C3%B3ngora-loria-1a9ab24b/<br></br>
 *Email: mgongora08@gmail.com
 
 <p align="left">
