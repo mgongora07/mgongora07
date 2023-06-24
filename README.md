@@ -9,10 +9,20 @@ Actualmente estoy aprendiendo las siguientes tecnologias, apoyado en el bootcamp
 
 <h1> 😍¿ Que me gusta hacer?</h1>
 
-Me gusta poder adquirir nuevos conocimientos que me puedan servir en la búsqueda de soluciones a los desafios que se presenten.  
+Me gusta adquirir nuevos conocimientos que me puedan servir en la búsqueda de soluciones a los desafios que se presenten.  
 
 
+<h1> 💡 Objetivos </h1>
 
-<h3 align="left">Connect with me:</h3>
+*Empezar mi carrera como FullStack Developer 
+*Aprender las bases de TypeScript
+*Mejorar mis habilidades como Programador
+*Ser un mejor profesional
+
+
+<h3 align="left">Información de contacto:</h3>
+*LinkedIn:https://www.linkedin.com/in/mauricio-g%C3%B3ngora-loria-1a9ab24b/
+*Email: mgongora08@gmail.com
+
 <p align="left">
 </p>
