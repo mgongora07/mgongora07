@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Spy Mauricio J. Góngora Loria</h1>
+<h1 align="center">Hola 👋, Soy Mauricio J. Góngora Loria</h1>
 <h3 align="center">Un apasionado entusiasta por la tecnologia !!</h3>
 
 De profesión contador Publico pero con mucha inquietud por la mejora continua.
@@ -14,7 +14,7 @@ Me gusta adquirir nuevos conocimientos que me puedan servir en la búsqueda de s
 
 <h1> 💡 Objetivos </h1>
 
-*Empezar mi carrera como FullStack Developer 
+*Empezar mi carrera como FullStack Developer <br></br>
 *Aprender las bases de TypeScript
 *Mejorar mis habilidades como Programador
 *Ser un mejor profesional
